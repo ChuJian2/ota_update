@@ -1,4 +1,5 @@
 ### Realme GT Neo3
+ ----
 | 80W | 150W |
 | ---- | ---- |
 | [A34](https://gauss-compotacostauto-cn.allawnfs.com/remove-c12a221c26bd5f64be3c5e1bb5af14bc/component-ota/22/06/07/18f0be27fac342aa96b34886e7aeb936.zip) | [A34](https://gauss-compotacostauto-cn.allawnfs.com/remove-faaa2c3032d3f0c9d43f1d641e13ec24/component-ota/22/06/07/014aaae9ee8f4cecbc9e3a1ffa0f9954.zip) |
@@ -11,3 +12,4 @@
 |  | [A26](https://gauss-compotacostauto-cn.allawnfs.com/remove-f982e7fe5f248656d4fee10f2c6dc3c5/component-ota/22/04/22/59bf551b92bb45b49fee95f364c89684.zip) |
 |  | [A24](https://gauss-compotacostauto-cn.allawnfs.com/remove-6e13e0d5f3aeb07153f55e736c591624/component-ota/22/04/18/ee5d4fac73834a7c990b9d83de517903.zip) |
 | [A23](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ff291077bbaa34185e1ff06c36780934/component-ota/22/04/14/2834524040664200b28cf26b76b2acac.zip) |  |
+ ----
